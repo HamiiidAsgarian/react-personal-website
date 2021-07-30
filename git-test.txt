@@ -1,0 +1,10 @@
+git init
+
+git add git-test.txt
+
+
+git status
+
+git commit
+
+aa
